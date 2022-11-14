@@ -9,5 +9,5 @@ Execute the following command.
 docker compose up -d
 ```
 
-## Lisence
-Mit
+## License
+MIT License
